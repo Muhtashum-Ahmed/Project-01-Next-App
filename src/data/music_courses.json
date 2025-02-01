@@ -1,0 +1,117 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Basics for Beginners",
+      "slug": "guitar-basics-for-beginners",
+      "description": "Learn the fundamentals of playing the guitar, from chords to strumming.",
+      "detailDescription" : "This beginner-friendly course is your gateway to the world of guitar playing. Start with the fundamentals: learn how to hold the guitar properly, identify strings (E-A-D-G-B-E), and master basic chords like C Major, G Major, and E Minor. We’ll break down strumming patterns, rhythm exercises, and tuning techniques using a digital tuner. You’ll practice playing simplified versions of iconic songs like `Wonderwall` and Horse with No Name to build confidence. The course also introduces tablature (TAB) reading and includes downloadable chord charts. By the end, you’ll play 5+ full songs, transition smoothly between chords, and understand foundational music theory. Perfect for absolute beginners taught by John Mayer, blending patience with practical skills." ,
+
+      "price": 29.99,
+      "instructor": "John Mayer",
+      "isFeatured": true,
+      "image" : "https://images.unsplash.com/photo-1615932093813-bd5be5f40038?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      
+    },
+    {
+      "id": 2,
+      "title": "Mastering Acoustic Guitar",
+      "slug": "mastering-acoustic-guitar",
+      "description": "Take your acoustic guitar skills to the next level with advanced techniques.",
+      "detailDescription" : "Elevate your acoustic guitar skills with Eric Clapton’s expert guidance. Dive into advanced fingerpicking patterns, alternate tunings (Drop D, Open G), and percussive techniques like body tapping. Learn to play expressive melodies using harmonics and slides, and explore bluesy chord progressions. The course includes in-depth lessons on dynamics (volume control) and tone shaping for emotive performances. Practice complex songs like Tears in Heaven and Blackbird, and discover how to improvise solos over folk and blues rhythms. Includes a module on maintaining your acoustic guitar for optimal sound. Ideal for intermediate players ready to refine their artistry and tackle challenging acoustic arrangements." ,
+      "price": 49.99,
+      "instructor": "Eric Clapton",
+      "isFeatured": true,
+      "image" : "https://plus.unsplash.com/premium_photo-1664015982598-283bcdc9cae8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8QWNvdXN0aWMlMjBHdWl0YXJ8ZW58MHx8MHx8fDA%3D"
+      
+    },
+    {
+      "id": 3,
+      "title": "Piano for Beginners",
+      "slug": "piano-for-beginners",
+      "description": "A comprehensive guide to learning piano for absolute beginners.",
+      "detailDescription" : "Taught by Elton John, this course demystifies piano basics. Start with proper hand posture, note names (A-G), and simple scales (C Major). Learn to read sheet music, play melodies like Für Elise (simplified), and coordinate left-hand chords with right-hand melodies. Interactive exercises cover rhythm timing, pedal usage, and chord inversions. The course includes play-along tracks for pop classics like Let It Be and Clocks, gradually building dexterity. By Week 6, you’ll compose short pieces and perform duets. Perfect for those with no prior experience, blending theory with joyful practice." ,
+      "price": 39.99,
+      "instructor": "Elton John",
+      "isFeatured": false,
+      "image" : "https://images.unsplash.com/photo-1552422535-c45813c61732?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 4,
+      "title": "Jazz Piano Improvisation",
+      "slug": "jazz-piano-improvisation",
+      "description": "Learn how to improvise and play soulful jazz piano.",
+      "detailDescription" : "Herbie Hancock teaches you to “speak” through jazz piano. Master extended chords (9ths, 13ths), bebop scales, and syncopated rhythms. Analyze jazz standards like Autumn Leaves and Blue Bossa to understand improvisation frameworks. Learn modal playing, chromatic passing tones, and how to “comp” chords behind solos. The course includes live jam sessions with a virtual band and tips for developing your unique style. By the end, you’ll improvise confidently over ii-V-I progressions and record your own jazz arrangements. Requires intermediate piano skills." ,
+      "price": 59.99,
+      "instructor": "Herbie Hancock",
+      "isFeatured": true,
+      "image" : "https://images.unsplash.com/photo-1452724931113-5ab6340ce080?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8amF6eiUyMHBpYW5vfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 5,
+      "title": "Electric Guitar Mastery",
+      "slug": "electric-guitar-mastery",
+      "description": "Master electric guitar techniques and shredding solos.",
+      "detailDescription" : "Channel your inner rockstar with Slash! This course focuses on electric guitar essentials: power chords, palm muting, and iconic riffs from Sweet Child O’ Mine and Back in Black. Dive into pentatonic and blues scales for soloing, and learn techniques like bending, vibrato, and pinch harmonics. Explore amp settings, distortion effects, and pedalboard basics for crafting your signature tone. Includes a “Solo Construction Kit” module to build face-melting solos step-by-step. Perfect for intermediate players aiming to dominate rock, metal, and blues genres." ,
+      "price": 69.99,
+      "instructor": "Slash",
+      "isFeatured": true,
+      "image" : "https://images.unsplash.com/photo-1619361369057-a86afad4be8a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGVsZWN0cmljJTIwZ3VpdGFyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 6,
+      "title": "Music Theory for Musicians",
+      "slug": "music-theory-for-musicians",
+      "description": "Understand the theory behind your favorite tunes.",
+      "detailDescription" : "Rick Beato simplifies music theory for all instruments. Learn scales (major, minor, modes), chord construction (triads, 7ths), and harmonic analysis. Decode rhythm with time signatures, syncopation, and polyrhythms. Apply theory to real songs: dissect progressions from Hotel California and Yesterday. Includes ear-training exercises and composition frameworks for writing melodies/harmonies. A must for songwriters and curious musicians craving deeper musical insight." ,
+      "price": 34.99,
+      "instructor": "Rick Beato",
+      "isFeatured": false,
+      "image" : "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bXVzaWN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": 7,
+      "title": "Classical Piano Essentials",
+      "slug": "classical-piano-essentials",
+      "description": "Dive into classical piano techniques and repertoire.",
+      "detailDescription" : "Lang Lang guides you through classical piano mastery. Study posture, finger independence, and articulation (legato/staccato). Play pieces by Bach (Minuet in G), Beethoven (Ode to Joy), and Chopin (Prelude in E Minor). Learn pedaling techniques, dynamics, and Baroque ornamentation. The course includes historical context for each composer and tips for memorizing complex scores. Ideal for transitioning from pop to classical repertoire." ,
+      "price": 49.99,
+      "instructor": "Lang Lang",
+      "isFeatured": false,
+      "image" : "https://images.unsplash.com/photo-1613941854763-c237d27c45d3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNsYXNzaWNhbCUyMHBpYW5vfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 8,
+      "title": "Fingerstyle Guitar Techniques",
+      "slug": "fingerstyle-guitar-techniques",
+      "description": "Learn fingerstyle guitar techniques to create beautiful melodies.",
+      "detailDescription" : "Tommy Emmanuel’s course transforms you into a one-man band. Master Travis picking, thumb-slapping, and alternating bass patterns. Play arrangements of Classical Gas and Dust in the Wind while integrating melody, harmony, and percussion. Learn open tunings (DADGAD) and harmonics for ethereal effects. Includes a “Performance Prep” module to conquer stage nerves. Requires intermediate skills but rewards with mesmerizing solo performances." ,
+      "price": 44.99,
+      "instructor": "Tommy Emmanuel",
+      "isFeatured": true,
+      "image" : "https://plus.unsplash.com/premium_photo-1680527465661-0efe3379840f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjF8fGZpbmdlcnN0eWxlJTIwZ3VpdGFyfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting with Guitar",
+      "slug": "songwriting-with-guitar",
+      "description": "Learn to write and compose songs using your guitar skills.",
+      "detailDescription" : "Ed Sheeran reveals his hit-making process. Structure songs (verse-chorus-bridge), craft lyrics with rhyme schemes, and write chord progressions that evoke emotions. Analyze hits like Shape of You and Thinking Out Loud. Learn to use capos, loop pedals, and DAWs for demo recordings. Includes collaboration exercises and feedback templates. Unlock your storytelling potential, whether for folk, pop, or acoustic ballads." ,
+      "price": 54.99,
+      "instructor": "Ed Sheeran",
+      "isFeatured": true,
+      "image" : "https://images.unsplash.com/photo-1506157786151-b8491531f063?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG11c2ljfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 10,
+      "title": "Pop Piano Hits",
+      "slug": "pop-piano-hits",
+      "description": "Play your favorite pop songs on the piano with step-by-step guidance.",
+      "detailDescription" : "Alicia Keys helps you play chart-toppers on piano. Break down songs like Rolling in the Deep and All of Me into easy chords and riffs. Learn syncopated rhythms, pop inversions, and how to add flair with arpeggios. The course includes vocal accompaniment tips and MIDI file downloads for practice. Great for hobbyists wanting to impress at parties or social media!" ,
+      "price": 39.99,
+      "instructor": "Alicia Keys",
+      "isFeatured": false,
+      "image" : "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fG11c2ljfGVufDB8fDB8fHww"
+    }
+  ]
+}
