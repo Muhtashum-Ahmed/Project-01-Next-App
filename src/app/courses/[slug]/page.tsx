@@ -28,7 +28,7 @@ export default async function page({
             <BackgroundBeamsWithCollision  >
                 {
                     detailedOfCourse.map((data) => (
-                        <div className='z-50 m-4 sm:mt-32 bg-transparent shadow-xl  max-w-[800px]'>
+                        <div className='z-50 m-4 sm:mt-32 bg-transparent shadow-xl  max-w-[800px]' key={data.id}>
                             <div className='mt-64 sm:mt-32 border p-8 lg:flex  lg:gap-x-10'>
                                 <figure className='flex '>
                                     <img className='h-40 sm:h-56 md:h-80 lg:h-auto mx-auto' src={data.image} alt={data.title} />
