@@ -2,8 +2,6 @@
 import Link from "next/link"
 import CourseData from "@/data/music_courses.json"
 import { BackgroundGradient } from "./ui/background-gradient"
-import { data } from "motion/react-client"
-
 
 interface Course {
     id: number,

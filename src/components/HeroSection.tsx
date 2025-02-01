@@ -1,7 +1,5 @@
 import Link from 'next/link'
-import React from 'react'
 import { Spotlight } from './ui/Spotlight'
-
 
 const HeroSection = () => {
   return (
@@ -22,7 +20,6 @@ const HeroSection = () => {
           </Link>
         </div>
       </div>
-
     </div>
   )
 }

@@ -6,7 +6,7 @@ function Footer() {
             <div className='max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6'>
                 <div>
                     <h2 className='text-white font-bold text-2xl' >About Us</h2>
-                    <p className='mt-6' >Discover the rhythm of innovation! Music School is your gateway to seamless music streaming, curated playlists, and immersive audio experiences. Built with passion for music lovers worldwide.</p>
+                    <p className='mt-6 text-justify' >Discover the rhythm of innovation! Music School is your gateway to seamless music streaming, curated playlists, and immersive audio experiences. Built with passion for music lovers worldwide.</p>
                 </div>
                 <div>
                     <h2 className='text-white font-bold text-2xl' >Quick Links</h2>

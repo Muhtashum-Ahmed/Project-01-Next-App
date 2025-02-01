@@ -5,7 +5,6 @@ import React, { useRef, useState, useEffect } from "react";
 
 export const BackgroundBeamsWithCollision = ({
   children,
-  className,
 }: {
   children: React.ReactNode;
   className?: string;
@@ -158,7 +157,7 @@ const CollisionMechanism = React.forwardRef<
     const animationInterval = setInterval(checkCollision, 50);
 
     return () => clearInterval(animationInterval);
-  }, [cycleCollisionDetected, containerRef]);
+  }, [cycleCollisionDetected, containerRef ,parentRef]);
 
   useEffect(() => {
     if (collision.detected && collision.coordinates) {
